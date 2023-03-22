@@ -1,2 +1,2 @@
 # Hashing
-CS toolbox of hashing
+Hashing algorithms including LSH、E2LSH、Multi-Probe LSH & DSH
